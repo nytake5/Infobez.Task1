@@ -1,0 +1,23 @@
+[
+  {
+    
+    "Path": "C:\\Users\\denzi\\source\\repos\\Infobez.Task1\\Infobez.Task1\\Test\\Test1.txt",
+    "Hash": 116
+  },
+  {
+    "Path": "C:\\Users\\denzi\\source\\repos\\Infobez.Task1\\Infobez.Task1\\Test\\Test2.txt",
+    "Hash": 56
+  },
+  {
+    "Path": "C:\\Users\\denzi\\source\\repos\\Infobez.Task1\\Infobez.Task1\\Test\\Test1\\Test3.txt",
+    "Hash": 278
+  },
+  {
+    "Path": "C:\\Users\\denzi\\source\\repos\\Infobez.Task1\\Infobez.Task1\\Test\\Test1\\Test4\\Test4.txt",
+    "Hash": 56
+  },
+  {
+    "Path": "C:\\Users\\denzi\\source\\repos\\Infobez.Task1\\Infobez.Task1\\Test\\Test2\\Test5.txt",
+    "Hash": 56
+  }
+]
